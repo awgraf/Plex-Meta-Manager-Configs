@@ -63,19 +63,41 @@ dynamic_collections:
         - Action & adventure
         - Action and Adventure
         - Action and adventure
+      Animation:
+        - Animation
+      Anime:
+        - Anime
       Biography:
         - Biopic
+      Comedy:
+        - Comedy
+      Documentary:
+        - Documentary
+      Drama:
+        - Drama
       Family:
+        - Family
         - Kids & Family
       Fantasy:
+        - Fantasy
         - SciFi & Fantasy
         - Science Fiction & Fantasy
         - Science-Fiction & Fantasy
         - Sci-Fi & Fantasy
-      Film Noir:
-        Film-Noir
-      Politics:
-        - War & Politics
+      History:
+        - History
+      Horror:
+        - Horror
+      Musical:
+        - Musical
+      Mystery:
+        - Mystery
+      Pandemic:
+        template: {name: Genre, poster: https://theposterdb.com/api/assets/55837}
+        imdb_list: https://www.imdb.com/list/ls092321048/
+        summary: A Pandemic film resolves around widespread viruses, plagues, and diseases.
+      Romance:
+        - Romance
       Science Fiction:
         - SciFi
         - Sci-Fi
@@ -83,7 +105,7 @@ dynamic_collections:
         - SciFi & Fantasy
         - Science Fiction & Fantasy
         - Sci-Fi & Fantasy
-      Talk Show:
-        - Talk
-      War:
-        - War & Politics
+      Sword & Sorcery:
+        template: {name: Genre, poster: https://theposterdb.com/api/assets/74604}
+        imdb_list: https://www.imdb.com/list/ls022909805
+        summary: Sword and Sorcery film is a sub-genre of Fantasy that tend to be more plot-driven. These films rely on heavy action and battle scenes. Common themes in Sword and Sorcery films include a rescue mission, saving a princess, and battling a fantastical monster. The worlds and characters in these films are often much less developed than in other fantasy sub-genres. Of all the Fantasy sub-genres, Sword and Sorcery is most likely to be geared towards a younger audience, as many of these films are animated.
