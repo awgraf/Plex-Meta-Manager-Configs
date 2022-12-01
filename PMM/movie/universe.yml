@@ -117,5 +117,5 @@ collections:
     template:
       - name: shared
       - name: multi-franchise
-        image: Studio Ghibli:
+        image: Studio Ghibli
     trakt_list: https://trakt.tv/lists/official/studio-ghibli
