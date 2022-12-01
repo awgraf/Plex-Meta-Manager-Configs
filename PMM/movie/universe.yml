@@ -118,4 +118,5 @@ collections:
       - name: shared
       - name: multi-franchise
         image: Studio Ghibli
-    trakt_list: https://trakt.tv/lists/official/studio-ghibli
+    url_poster: https://theposterdb.com/api/assets/100966
+    trakt_list: https://trakt.tv/users/marinemonk/lists/studio-ghibli
