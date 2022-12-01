@@ -14,7 +14,7 @@ collections:
       - Indian4K
     item_overlay: 
       name: 4K
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Stock/4K-UHD.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Stock/4K-UHD.png
     build_collection: false
     #revert_overlay: true  
   
@@ -29,6 +29,6 @@ collections:
       - Indian4K
     item_overlay: 
       name: 4K-HDR
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Creations/4K-HDR.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Creations/4K-HDR.png
     build_collection: false
     #revert_overlay: true

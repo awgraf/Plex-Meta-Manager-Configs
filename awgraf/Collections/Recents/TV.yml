@@ -5,7 +5,7 @@
 
 collections: 
   Recently Added:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Recently/Recently%20Added.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Recent/Recently/Recently%20Added.png
     sort_title: 00-Recently Added
     smart_filter:
       sort_by: added.desc
@@ -14,7 +14,7 @@ collections:
     visible_library: true
         
   Recently Released:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Recently/Recently%20Released.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Recent/Recently/Recently%20Released.png
     sort_title: 00-Recently Released
     smart_filter:
       sort_by: release.desc
@@ -23,7 +23,7 @@ collections:
     visible_library: true
         
   Recently Aired:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Recent/Recently/Recently%20Aired.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Recent/Recently/Recently%20Aired.png
     sort_title: 00-Recently Aired
     smart_filter:
       type: episodes

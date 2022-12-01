@@ -6,7 +6,7 @@
 collections:
   Amazon Original:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Amazon.png
     sort_title: 06-Amazon
     collection_order: title.asc
     sync_mode: sync
@@ -16,7 +16,7 @@ collections:
     
   Apple TV+ Original:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Apple%20TV.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Apple%20TV.png
     sort_title: 06-Apple TV+
     collection_order: title.asc
     sync_mode: sync
@@ -26,7 +26,7 @@ collections:
     
   Disney+ Original:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%2B.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Disney%2B.png
     sort_title: 06-Disney+
     collection_order: title.asc
     sync_mode: sync
@@ -36,7 +36,7 @@ collections:
     
   HBO Original:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/HBO.png
     sort_title: 06-HBO
     collection_order: title.asc
     sync_mode: sync
@@ -47,7 +47,7 @@ collections:
     
   HBO Max Original:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO%20Max.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/HBO%20Max.png
     sort_title: 06-HBO Max
     collection_order: title.asc
     sync_mode: sync
@@ -57,7 +57,7 @@ collections:
     
   Hulu Original:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Hulu.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Hulu.png
     sort_title: 06-Hulu
     collection_order: title.asc
     sync_mode: sync
@@ -67,7 +67,7 @@ collections:
     
   Netflix Original:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Netflix.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Netflix.png
     sort_title: 06-Netflix
     collection_order: title.asc
     sync_mode: sync
@@ -79,7 +79,7 @@ collections:
     
   Paramount+ Original:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Paramount.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Paramount.png
     sort_title: 06-Paramount+
     collection_order: title.asc
     sync_mode: sync
@@ -87,7 +87,7 @@ collections:
     
   Peacock Original:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Peacock.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Peacock.png
     sort_title: 06-Peacock
     collection_order: title.asc
     sync_mode: sync
@@ -95,7 +95,7 @@ collections:
     
   Youtube Original:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Youtube.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Youtube.png
     sort_title: 06-Youtube
     collection_order: title.asc
     sync_mode: sync

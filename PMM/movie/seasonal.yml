@@ -58,7 +58,7 @@ templates:
 collections:
   Seasonal Collections:
     template:
-      - name: separator off
+      - name: separator
         separator: seasonal
 
   Independence Day:

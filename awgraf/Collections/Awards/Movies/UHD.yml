@@ -6,7 +6,7 @@
 collections:
   BAFTA Winners - UHD:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Awards/BAFTA.png
     sort_title: 03-Awards BAFTA
     collection_order: title.asc
     sync_mode: sync
@@ -15,7 +15,7 @@ collections:
     
   Berlinale Winners - UHD:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Berlinale.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Awards/Berlinale.png
     sort_title: 03-Awards Berlinale
     collection_order: title.asc
     sync_mode: sync
@@ -24,7 +24,7 @@ collections:
     
   Cannes Film Festival Winners - UHD:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Cannes.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Awards/Cannes.png
     sort_title: 03-Awards Cannes
     collection_order: title.asc
     sync_mode: sync
@@ -35,7 +35,7 @@ collections:
     
   Emmy Winners - UHD:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Awards/Emmy.png
     sort_title: 03-Awards Emmy
     collection_order: title.asc
     sync_mode: sync
@@ -45,7 +45,7 @@ collections:
     
   European Film Award Winners - UHD:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/European%20Film%20Awards.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Awards/European%20Film%20Awards.png
     sort_title: 03-Awards European Film Awards
     collection_order: title.asc
     sync_mode: sync
@@ -60,7 +60,7 @@ collections:
     
   Golden Globe Winners - UHD:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Awards/Golden%20Globe.png
     sort_title: 03-Awards Golden Globes
     collection_order: title.asc
     sync_mode: sync
@@ -69,7 +69,7 @@ collections:
     
   Locarno Film Festival Winners - UHD:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Locarno%20Film%20Festival.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Awards/Locarno%20Film%20Festival.png
     sort_title: 03-Awards Locarno Film Festival
     collection_order: title.asc
     sync_mode: sync
@@ -83,7 +83,7 @@ collections:
     
   Oscar Winners - UHD:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Ocar.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Awards/Ocar.png
     sort_title: 03-Awards Oscars
     collection_order: title.asc
     sync_mode: sync
@@ -92,7 +92,7 @@ collections:
     
   Sundance Winners - UHD:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Sundance.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Awards/Sundance.png
     sort_title: 03-Awards Sundance
     collection_order: title.asc
     sync_mode: sync
@@ -104,7 +104,7 @@ collections:
     
   Venice Film Festival Winners - UHD:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Venice%20Film%20Festival.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Awards/Venice%20Film%20Festival.png
     sort_title: 03-Awards Venice Film Festival
     collection_order: title.asc
     sync_mode: sync

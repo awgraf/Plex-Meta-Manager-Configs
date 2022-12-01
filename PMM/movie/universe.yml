@@ -43,7 +43,7 @@ collections:
       - name: shared
       - name: multi-franchise
         image: Star Wars
-    trakt_list: https://trakt.tv/users/zorge88/lists/star-wars
+    trakt_list: https://trakt.tv/users/darkman1498/lists/star-wars
   DC Animated Universe:
     template:
       - name: shared
@@ -113,3 +113,9 @@ collections:
       - name: multi-franchise
         image: The Mummy
     trakt_list: https://trakt.tv/users/rzepkowski/lists/the-mummy-movies
+  Studio Ghibli:
+    template:
+      - name: shared
+      - name: multi-franchise
+        image: Studio Ghibli:
+    trakt_list: https://trakt.tv/lists/official/studio-ghibli

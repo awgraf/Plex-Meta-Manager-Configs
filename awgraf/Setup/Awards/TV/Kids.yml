@@ -5,7 +5,7 @@
 
 collections:
   BAFTA Winners - Kids:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/BAFTA.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Awards/BAFTA.png
     sort_title: 03-Awards BAFTA
     collection_order: title.asc
     sync_mode: sync
@@ -13,7 +13,7 @@ collections:
     visible_library: true
     
   Critics Choice Award Winners - Kids:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Critics%20Choice%20Awards.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Awards/Critics%20Choice%20Awards.png
     sort_title: 03-Awards Critics Choice Award
     collection_order: title.asc
     sync_mode: sync
@@ -22,7 +22,7 @@ collections:
     visible_library: true
     
   Emmy Winners - Kids:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Emmy.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Awards/Emmy.png
     sort_title: 03-Awards Emmy
     collection_order: title.asc
     sync_mode: sync
@@ -31,7 +31,7 @@ collections:
     visible_library: true
     
   Golden Globe Winners - Kids:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Awards/Golden%20Globe.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Awards/Golden%20Globe.png
     sort_title: 03-Awards Golden Globes
     collection_order: title.asc
     sync_mode: sync

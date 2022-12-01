@@ -13,7 +13,7 @@ collections:
       has_dolby_vision: false
     item_overlay:
       name: 4K-UHD
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/Solid/4K-UHD-Solid.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Resolutions/Solid/4K-UHD-Solid.png
     build_collection: false
     #revert_overlay: true
   
@@ -26,7 +26,7 @@ collections:
       has_dolby_vision: false
     item_overlay:
       name: 4K-HDR
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/Solid/4K-HDR-Solid.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Resolutions/Solid/4K-HDR-Solid.png
     build_collection: false
     #revert_overlay: true
     
@@ -38,6 +38,6 @@ collections:
       has_dolby_vision: true
     item_overlay: 
       name: 4K-DV
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/Solid/4K-DV-Solid.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Resolutions/Solid/4K-DV-Solid.png
     build_collection: false
     #revert_overlay: true

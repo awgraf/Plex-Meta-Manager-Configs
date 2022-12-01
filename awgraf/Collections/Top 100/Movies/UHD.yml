@@ -6,10 +6,10 @@
 collections:
   Top 100 Movies - UHD:
     schedule: monthly(1)
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Top%20100/Top%20100.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Top%20100/Top%20100.png
     sort_title: 02-Top 100
     collection_order: custom
     sync_mode: sync
-    mdblist_list: https://mdblist.com/lists/zluckytraveler/top-100-movies-hduhd/
+    mdblist_list: https://mdblist.com/lists/awgraf/top-100-movies-hduhd/
     limit: 100
     visible_library: true

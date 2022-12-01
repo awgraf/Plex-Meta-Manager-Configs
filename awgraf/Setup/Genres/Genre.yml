@@ -5,7 +5,7 @@
 
 collections:
   Action:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Action.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Action.png
     sort_title: 07-Action
     smart_filter:
       sort_by: title.asc
@@ -18,7 +18,7 @@ collections:
       validate: false
       
   Adventure:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Adventure.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Adventure.png
     sort_title: 07-Adventure
     smart_filter:
       sort_by: title.asc
@@ -31,7 +31,7 @@ collections:
       validate: false
       
   Animation:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Animation.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Animation.png
     sort_title: 07-Animation
     smart_filter: 
       sort_by: title.asc
@@ -39,7 +39,7 @@ collections:
         genre: Animation
       
   Biography:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Biography.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Biography.png
     sort_title: 07-Biography
     smart_filter:
       sort_by: title.asc
@@ -52,7 +52,7 @@ collections:
       validate: false
       
   Comedy:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Comedy.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Comedy.png
     sort_title: 07-Comedy
     smart_filter:
       sort_by: title.asc
@@ -65,7 +65,7 @@ collections:
       validate: false
       
   Cooking:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Cooking.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Cooking.png
     sort_title: 07-Cooking
     smart_filter:
       sort_by: title.asc
@@ -76,7 +76,7 @@ collections:
         - Children
       
   Crime:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Crime.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Crime.png
     sort_title: 07-Crime
     smart_filter:
       sort_by: title.asc
@@ -89,7 +89,7 @@ collections:
       validate: false
       
   Documentary:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Documentary.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Documentary.png
     sort_title: 07-Documentary
     smart_filter:
       sort_by: title.asc
@@ -100,7 +100,7 @@ collections:
         - Children
       
   Drama:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Drama.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Drama.png
     sort_title: 07-Drama
     smart_filter:
       sort_by: title.asc
@@ -113,7 +113,7 @@ collections:
       validate: false
       
   Family:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Family.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Family.png
     sort_title: 07-Family
     smart_filter:
       sort_by: title.asc
@@ -121,7 +121,7 @@ collections:
         genre: Family
       
   Fantasy:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Fantasy.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Fantasy.png
     sort_title: 07-Fantasy
     smart_filter:
       sort_by: title.asc
@@ -134,7 +134,7 @@ collections:
       validate: false
       
   Game Show:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Game%20Show.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Game%20Show.png
     sort_title: 07-Game Show
     smart_filter:
       ssort_by: title.asc
@@ -145,7 +145,7 @@ collections:
         - Children
       
   History:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/History.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/History.png
     sort_title: 07-History
     smart_filter:
       sort_by: title.asc
@@ -158,7 +158,7 @@ collections:
       validate: false
       
   Horror:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Horror.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Horror.png
     sort_title: 07-Horror
     smart_filter:
       sort_by: title.asc
@@ -171,7 +171,7 @@ collections:
       validate: false
       
   Martial Arts:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Martial%20Arts.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Martial%20Arts.png
     sort_title: 07-Martial Arts
     smart_filter:
       sort_by: title.asc
@@ -183,7 +183,7 @@ collections:
         - Family
       
   Music:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Music.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Music.png
     sort_title: 07-Music
     smart_filter:
       sort_by: title.asc
@@ -196,7 +196,7 @@ collections:
       validate: false
       
   Musical:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Musical.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Musical.png
     sort_title: 07-Musical
     smart_filter:
       sort_by: title.asc
@@ -205,7 +205,7 @@ collections:
         genre.not: Children
       
   Mystery:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Mystery.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Mystery.png
     sort_title: 07-Mystery
     smart_filter:
       sort_by: title.asc
@@ -218,7 +218,7 @@ collections:
       validate: false
       
   News:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/News.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/News.png
     sort_title: 07-News
     smart_filter:
       sort_by: title.asc
@@ -226,7 +226,7 @@ collections:
         genre: News
       
   Noir:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Noir.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Noir.png
     sort_title: 07-Noir
     smart_filter:
       sort_by: title.asc
@@ -236,7 +236,7 @@ collections:
         - Film Noir
       
   Politics:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Politics.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Politics.png
     sort_title: 07-Politics
     smart_filter:
       sort_by: title.asc
@@ -244,7 +244,7 @@ collections:
         genre: Politics
       
   Reality:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Reality.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Reality.png
     sort_title: 07-Reality
     smart_filter:
       sort_by: title.asc
@@ -257,7 +257,7 @@ collections:
       validate: false
       
   Romance:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Romance.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Romance.png
     sort_title: 07-Romance
     smart_filter:
       sort_by: title.asc
@@ -270,7 +270,7 @@ collections:
       validate: false
       
   Sci-Fi:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Sci-Fi.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Sci-Fi.png
     sort_title: 07-Sci-Fi
     smart_filter:
       sort_by: title.asc
@@ -284,7 +284,7 @@ collections:
       validate: false
       
   Shorts:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Short.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Short.png
     sort_title: 07-Shorts
     smart_filter:
       sort_by: title.asc
@@ -294,7 +294,7 @@ collections:
         - Short
       
   Soap Opera:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Soap%20Opera.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Soap%20Opera.png
     sort_title: 07-Soap Opera
     smart_filter:
       sort_by: title.asc
@@ -302,7 +302,7 @@ collections:
         genre: Soap
       
   Sports:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Sports.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Sports.png
     sort_title: 07-Sports
     smart_filter:
       sort_by: title.asc
@@ -314,7 +314,7 @@ collections:
       validate: false
       
   Talk Show:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Talk%20Show.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Talk%20Show.png
     sort_title: 07-Talk Show
     smart_filter:
       sort_by: title.asc
@@ -323,7 +323,7 @@ collections:
         - Talk Show
       
   Thriller:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Thriller.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Thriller.png
     sort_title: 07-Thriller
     smart_filter:
       sort_by: title.asc
@@ -336,7 +336,7 @@ collections:
       validate: false
       
   Travel:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Travel.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Travel.png
     sort_title: 07-Travel
     smart_filter:
       sort_by: title.asc
@@ -347,7 +347,7 @@ collections:
         - Children
       
   War:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/War.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/War.png
     sort_title: 07-War
     smart_filter:
       sort_by: title.asc
@@ -360,7 +360,7 @@ collections:
       validate: false
       
   Western:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Genres/Matching/Western.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Genres/Matching/Western.png
     sort_title: 07-Westerns
     smart_filter:
       sort_by: title.asc

@@ -12,7 +12,7 @@ overlays:
       horizontal_align: center
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Background/600x105%20Solid.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Background/600x105%20Solid.png
 
 
 ######################################################
@@ -35,7 +35,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/1080P-DV.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Resolutions/1080P-DV.png
 
   4K-DV:
     plex_search:
@@ -52,7 +52,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-DV.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Resolutions/4K-DV.png
       
   4K-DV Filepath:
     plex_all: true
@@ -66,7 +66,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/4K-DV.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Resolutions/4K-DV.png
 
         
 ######################################################
@@ -86,7 +86,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Opus.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/Opus.png
       
   MP3:
     plex_all: true
@@ -100,7 +100,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/MP3.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/MP3.png
       
   AAC:
     plex_all: true
@@ -117,7 +117,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/AAC.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/AAC.png
       
   AAC Filepath:
     plex_all: true
@@ -134,7 +134,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/AAC.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/AAC.png
       
   Dolby Digital:
     plex_all: true
@@ -148,7 +148,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-Digital.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/Dolby-Digital.png
       
   DTS:
     plex_all: true
@@ -162,7 +162,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/DTS.png
   
   DTS Filepath:
     plex_all: true
@@ -176,7 +176,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/DTS.png
       
   DTS-ES:
     plex_all: true
@@ -190,7 +190,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS-ES.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/DTS-ES.png
     
   DTS-ES Filepath:
     plex_all: true
@@ -204,7 +204,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS-ES.png 
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/DTS-ES.png 
       
   Dolby Digital+:
     plex_all: true
@@ -218,7 +218,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-Digital-Plus.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/Dolby-Digital-Plus.png
   
   Dolby Digital+ Filepath:
     plex_all: true
@@ -232,7 +232,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-Digital-Plus.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/Dolby-Digital-Plus.png
       
   DTS-HD HRA:
     plex_all: true
@@ -246,7 +246,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS-HD-HRA.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/DTS-HD-HRA.png
       
   DTS-HD HRA Filepath:
     plex_all: true
@@ -260,7 +260,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS-HD-HRA.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/DTS-HD-HRA.png
       
   PCM:
     plex_all: true
@@ -274,7 +274,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/PCM.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/PCM.png
       
   FLAC:
     plex_all: true
@@ -288,7 +288,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/FLAC.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/FLAC.png
       
   DTS-HD MA:
     plex_all: true
@@ -302,7 +302,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS-HD-MA.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/DTS-HD-MA.png
   
   DTS-HD MA Filepath:
     plex_all: true
@@ -316,7 +316,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/DTS-HD-MA.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/DTS-HD-MA.png
       
   Dolby TrueHD:
     plex_all: true
@@ -330,7 +330,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-TrueHD.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/Dolby-TrueHD.png
   
   Dolby TrueHD Filepath:
     plex_all: true
@@ -344,7 +344,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-TrueHD.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/Dolby-TrueHD.png
       
   Dolby Digital+ Atmos:
     plex_all: true
@@ -360,7 +360,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-Digital-Plus-Atmos.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/Dolby-Digital-Plus-Atmos.png
   
   Dolby Digital+ Atmos Filepath:
     plex_all: true
@@ -376,7 +376,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-Digital-Plus-Atmos.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/Dolby-Digital-Plus-Atmos.png
       
   Dolby TrueHD Atmos:
     plex_all: true
@@ -390,7 +390,7 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-TrueHD-Atmos.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/Dolby-TrueHD-Atmos.png
   
   Dolby TrueHD Atmos Filepath:
     plex_all: true
@@ -404,4 +404,4 @@ overlays:
       horizontal_align: left
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Audio/Dolby-TrueHD-Atmos.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Audio/Dolby-TrueHD-Atmos.png

@@ -5,7 +5,7 @@
 
 collections:
   A&E:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/A%26E.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/A%26E.png
     sort_title: 06-A&E
     smart_filter:
       sort_by: title.asc
@@ -20,7 +20,7 @@ collections:
       validate: false
       
   ABC:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ABC.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/ABC.png
     sort_title: 06-ABC
     smart_filter:
       sort_by: title.asc
@@ -41,7 +41,7 @@ collections:
       validate: false
       
   Acorn TV: 
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Acorn%20TV.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Acorn%20TV.png
     sort_title: 06-Acorn TV
     smart_filter:
       sort_by: title.asc
@@ -51,7 +51,7 @@ collections:
       validate: false
       
   Adult Swim: 
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Adult%20Swim.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Adult%20Swim.png
     sort_title: 06-Adult Swim
     smart_filter:
       sort_by: title.asc
@@ -61,7 +61,7 @@ collections:
       validate: false
       
   Amazon:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Amazon.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Amazon.png
     sort_title: 06-Amazon
     smart_filter:
       sort_by: title.asc
@@ -75,7 +75,7 @@ collections:
       validate: false
       
   AMC:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/AMC.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/AMC.png
     sort_title: 06-AMC
     smart_filter:
       sort_by: title.asc
@@ -89,7 +89,7 @@ collections:
       validate: false
       
   Animal Planet:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Animal%20Planet%202.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Animal%20Planet%202.png
     sort_title: 06-Animal Planet
     smart_filter:
       sort_by: title.asc
@@ -99,7 +99,7 @@ collections:
       validate: false
       
   Apple TV+:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Apple%20TV.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Apple%20TV.png
     sort_title: 06-Apple TV+
     smart_filter: 
       sort_by: title.asc  
@@ -108,7 +108,7 @@ collections:
       validate: false
       
   BBC:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/BBC.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/BBC.png
     sort_title: 06-BBC
     smart_filter:
       sort_by: title.asc
@@ -136,7 +136,7 @@ collections:
       validate: false
       
   BET:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/BET.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/BET.png
     sort_title: 06-BET
     smart_filter:
       sort_by: title.asc
@@ -150,7 +150,7 @@ collections:
       validate: false
       
   Boomerang:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Boomerang.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Boomerang.png
     sort_title: 06-Boomerang
     smart_filter:
       sort_by: title.asc
@@ -159,7 +159,7 @@ collections:
       validate: false
       
   Bravo:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Bravo.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Bravo.png
     sort_title: 06-Bravo
     smart_filter:
       sort_by: title.asc
@@ -171,7 +171,7 @@ collections:
       validate: false
       
   Canal+:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Canal.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Canal.png
     sort_title: 06-Canal+
     smart_filter:
       sort_by: title.asc
@@ -184,7 +184,7 @@ collections:
       validate: false
       
   Cartoon Network:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Cartoon%20Network.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Cartoon%20Network.png
     sort_title: 06-Cartoon Network
     smart_filter:
       sort_by: title.asc
@@ -194,7 +194,7 @@ collections:
       validate: false
       
   CBC:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/CBC.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/CBC.png
     sort_title: 06-CBC
     smart_filter:
       sort_by: title.asc
@@ -209,7 +209,7 @@ collections:
       validate: false
       
   CBS:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/CBS.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/CBS.png
     sort_title: 06-CBS
     smart_filter:
       sort_by: title.asc
@@ -222,7 +222,7 @@ collections:
       validate: false
       
   Channel 4:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%204.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Channel%204.png
     sort_title: 06-Channel 4
     smart_filter:
       sort_by: title.asc
@@ -232,7 +232,7 @@ collections:
       validate: false
       
   Channel 5:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Channel%205.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Channel%205.png
     sort_title: 06-Channel 5
     smart_filter:
       sort_by: title.asc
@@ -244,7 +244,7 @@ collections:
       validate: false
       
   Cinemax:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Cinemax.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Cinemax.png
     sort_title: 06-Cinemax
     smart_filter:
       sort_by: title.asc
@@ -253,7 +253,7 @@ collections:
       validate: false
       
   City:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/City.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/City.png
     sort_title: 06-City
     smart_filter:
       sort_by: title.asc
@@ -262,7 +262,7 @@ collections:
       validate: false
       
   CMT:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/CMT%201.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/CMT%201.png
     sort_title: 06-CMT
     smart_filter:
       sort_by: title.asc
@@ -271,7 +271,7 @@ collections:
       validate: false
       
   CNN:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/CNN.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/CNN.png
     sort_title: 06-CNN
     smart_filter:
       sort_by: title.asc
@@ -283,7 +283,7 @@ collections:
       validate: false
       
   Comedy Central:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Comedy%20Central.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Comedy%20Central.png
     sort_title: 06-Comedy Central
     smart_filter:
       sort_by: title.asc
@@ -296,7 +296,7 @@ collections:
       validate: false
       
   Comic-Con HQ:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Comic%20Con%20HQ.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Comic%20Con%20HQ.png
     sort_title: 06-Comic-Con HQ
     smart_filter:
       sort_by: title.asc
@@ -305,7 +305,7 @@ collections:
       validate: false
       
   Crackle:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Crackle.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Crackle.png
     sort_title: 06-Crackle
     smart_filter:
       sort_by: title.asc
@@ -314,7 +314,7 @@ collections:
       validate: false
       
   CTV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/CTV.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/CTV.png
     sort_title: 06-CTV
     smart_filter:
       sort_by: title.asc
@@ -330,7 +330,7 @@ collections:
       validate: false
       
   Dave:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Dave.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Dave.png
     sort_title: 06-Dave
     smart_filter:
       sort_by: title.asc
@@ -339,7 +339,7 @@ collections:
       validate: false
       
   DC Universe:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/DC%20Universe.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/DC%20Universe.png
     sort_title: 06-DC Universe
     smart_filter:
       sort_by: title.asc
@@ -351,7 +351,7 @@ collections:
       validate: false
         
   Discovery:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Discovery.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Discovery.png
     sort_title: 06-Discovery
     smart_filter:
       sort_by: title.asc
@@ -379,7 +379,7 @@ collections:
       validate: false
         
   Discovery+:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Discovery%2B.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Discovery%2B.png
     sort_title: 06-Discovery+
     smart_filter:
       sort_by: title.asc
@@ -391,7 +391,7 @@ collections:
       validate: false
       
   Disney Channel:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%202.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Disney%202.png
     sort_title: 06-Disney Channel
     smart_filter:
       sort_by: title.asc
@@ -401,7 +401,7 @@ collections:
       validate: false
       
   Disney Junior:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%20Junior.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Disney%20Junior.png
     sort_title: 06-Disney Junior
     smart_filter:
       sort_by: title.asc
@@ -410,7 +410,7 @@ collections:
       validate: false
       
   Disney XD:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%20XD.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Disney%20XD.png
     sort_title: 06-Disney XD
     smart_filter:
       sort_by: title.asc
@@ -419,7 +419,7 @@ collections:
       validate: false
       
   Disney+:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%2B.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Disney%2B.png
     sort_title: 06-Disney+
     smart_filter:
       sort_by: title.asc
@@ -429,7 +429,7 @@ collections:
       validate: false
         
   Disney Hotstar:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Disney%20Hotstar.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Disney%20Hotstar.png
     sort_title: 06-Disney Hotsar
     smart_filter: 
       sort_by: title.asc
@@ -438,7 +438,7 @@ collections:
       validate: false
       
   DIY Network:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/DIY.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/DIY.png
     sort_title: 06-E4
     smart_filter:
       sort_by: title.asc
@@ -448,7 +448,7 @@ collections:
       validate: false
       
   E!:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/E!.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/E!.png
     sort_title: 06-E!
     smart_filter:
       sort_by: title.asc
@@ -457,7 +457,7 @@ collections:
       validate: false
       
   E4:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/E4.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/E4.png
     sort_title: 06-E4
     smart_filter:
       sort_by: title.asc
@@ -467,7 +467,7 @@ collections:
       validate: false
       
   Epix:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Epix.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Epix.png
     sort_title: 06-Epix
     smart_filter:
       sort_by: title.asc
@@ -479,7 +479,7 @@ collections:
       validate: false
       
   ESPN+:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ESPN%2B.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/ESPN%2B.png
     sort_title: 06-ESPN+
     smart_filter:
       sort_by: title.asc
@@ -488,7 +488,7 @@ collections:
       validate: false
       
   ESPN:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ESPN.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/ESPN.png
     sort_title: 06-ESPN
     smart_filter:
       sort_by: title.asc
@@ -500,7 +500,7 @@ collections:
       validate: false
       
   Facebook Watch:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Facebook%20Watch.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Facebook%20Watch.png
     sort_title: 06-Facebook Watch
     smart_filter:
       sort_by: title.asc
@@ -509,7 +509,7 @@ collections:
       validate: false
       
   Food Network:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Food%20Network.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Food%20Network.png
     sort_title: 06-Food Network
     smart_filter:
       sort_by: title.asc
@@ -519,7 +519,7 @@ collections:
       validate: false
         
   FOX:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/FOX.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/FOX.png
     sort_title: 06-FOX
     smart_filter:
       sort_by: title.asc
@@ -545,7 +545,7 @@ collections:
       validate: false
         
   France TV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/France.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/France.png
     sort_title: 06-France TV
     smart_filter:
       sort_by: title.asc
@@ -562,7 +562,7 @@ collections:
       validate: false
       
   Freeform:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Freeform.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Freeform.png
     sort_title: 06-Freeform
     smart_filter:
       sort_by: title.asc
@@ -572,7 +572,7 @@ collections:
       validate: false
       
   Fuji TV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Fuji%20TV.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Fuji%20TV.png
     sort_title: 06-Fuji TV
     smart_filter:
       sort_by: title.asc
@@ -582,7 +582,7 @@ collections:
       validate: false
       
   FX:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/FX.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/FX.png
     sort_title: 06-FX
     smart_filter:
       sort_by: title.asc
@@ -592,7 +592,7 @@ collections:
       validate: false
       
   FXX:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/FXX.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/FXX.png
     sort_title: 06-FXX
     smart_filter:
       sort_by: title.asc
@@ -601,7 +601,7 @@ collections:
       validate: false
       
   G4:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/G4.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/G4.png
     sort_title: 06-G4
     smart_filter:
       sort_by: title.asc
@@ -614,7 +614,7 @@ collections:
       validate: false
       
   Global:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Global.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Global.png
     sort_title: 06-Global
     smart_filter:
       sort_by: title.asc
@@ -624,7 +624,7 @@ collections:
       validate: false
       
   Hallmark:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Hallmark.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Hallmark.png
     sort_title: 06-Hallmark
     smart_filter:
       sort_by: title.asc
@@ -636,7 +636,7 @@ collections:
       validate: false
       
   HBO:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/HBO.png
     sort_title: 06-HBO
     smart_filter:
       sort_by: title.asc
@@ -663,7 +663,7 @@ collections:
       validate: false
         
   HBO Max:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HBO%20Max.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/HBO%20Max.png
     sort_title: 06-HBO Max
     smart_filter:
       sort_by: title.asc
@@ -672,7 +672,7 @@ collections:
       validate: false
         
   HGTV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HGTV.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/HGTV.png
     sort_title: 06-HGTV
     smart_filter:
       sort_by: title.asc
@@ -684,7 +684,7 @@ collections:
       validate: false
         
   History Chanel:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/History.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/History.png
     sort_title: 06-History Channel
     smart_filter:
       sort_by: title.asc
@@ -698,7 +698,7 @@ collections:
       validate: false
       
   HLN:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/HLN.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/HLN.png
     sort_title: 06-HLN
     smart_filter:
       sort_by: title.asc
@@ -708,7 +708,7 @@ collections:
       validate: false
       
   Hulu:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Hulu.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Hulu.png
     sort_title: 06-Hulu
     smart_filter:
       sort_by: title.asc
@@ -718,7 +718,7 @@ collections:
       validate: false
         
   IFC:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/IFC.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/IFC.png
     sort_title: 06-IFC
     smart_filter:
       sort_by: title.asc
@@ -728,7 +728,7 @@ collections:
       validate: false
       
   IMDb TV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/IMDb%20TV.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/IMDb%20TV.png
     sort_title: 06-IMDb TV
     smart_filter:
       sort_by: title.asc
@@ -738,7 +738,7 @@ collections:
       validate: false
       
   Investigation Discovery:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Investigation%20Discovery.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Investigation%20Discovery.png
     sort_title: 06-Investigation Discovery
     smart_filter:
       sort_by: title.asc
@@ -748,7 +748,7 @@ collections:
       validate: false
       
   ITV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/ITV.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/ITV.png
     sort_title: 06-ITV
     smart_filter:
       sort_by: title.asc
@@ -764,7 +764,7 @@ collections:
       validate: false
       
   Lifestyle:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Lifestyle.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Lifestyle.png
     sort_title: 06-Lifestyle
     smart_filter:
       sort_by: title.asc
@@ -776,7 +776,7 @@ collections:
       validate: false
       
   Lifetime:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Lifetime.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Lifetime.png
     sort_title: 06-Lifetime
     smart_filter:
       sort_by: title.asc
@@ -788,7 +788,7 @@ collections:
       validate: false
         
   Marvel:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Marvel.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Marvel.png
     sort_title: 06-Marvel
     smart_filter:
       sort_by: title.asc
@@ -797,7 +797,7 @@ collections:
       validate: false
         
   MasterClass:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MasterClass.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/MasterClass.png
     sort_title: 06-MasterClass
     smart_filter:
       sort_by: title.asc
@@ -807,7 +807,7 @@ collections:
       validate: false
       
   MotorTrend:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Motor%20Trend.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Motor%20Trend.png
     sort_title: 06-MotorTrend
     smart_filter:
       sort_by: title.asc
@@ -821,7 +821,7 @@ collections:
       validate: false
       
   MTV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/MTV.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/MTV.png
     sort_title: 06-MTV
     smart_filter:
       sort_by: title.asc
@@ -836,7 +836,7 @@ collections:
       validate: false
         
   National Geographic:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/National%20Geographic.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/National%20Geographic.png
     sort_title: 06-National Geographic
     smart_filter:
       sort_by: title.asc
@@ -851,7 +851,7 @@ collections:
       validate: false
         
   NBC:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/NBC.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/NBC.png
     sort_title: 06-NBC
     smart_filter:
       sort_by: title.asc
@@ -872,7 +872,7 @@ collections:
       validate: false
         
   Netflix:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Netflix.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Netflix.png
     sort_title: 06-Netflix
     smart_filter:
       sort_by: title.asc
@@ -882,7 +882,7 @@ collections:
       validate: false
       
   Nick Jr.:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Nick%20Jr.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Nick%20Jr.png
     sort_title: 06-Nick Jr.
     smart_filter:
       sort_by: title.asc
@@ -892,7 +892,7 @@ collections:
       validate: false
       
   Nickelodeon:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Nickelodeon.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Nickelodeon.png
     sort_title: 06-Nickelodeon
     smart_filter:
       sort_by: title.asc
@@ -902,7 +902,7 @@ collections:
       validate: false
       
   Nick Toons.:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Nicktoons.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Nicktoons.png
     sort_title: 06-Nick Jr.
     smart_filter:
       sort_by: title.asc
@@ -911,7 +911,7 @@ collections:
       validate: false
       
   Nine Network:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Nine%20Network.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Nine%20Network.png
     sort_title: 06-Nine Network
     smart_filter:
       sort_by: title.asc
@@ -923,7 +923,7 @@ collections:
       validate: false
       
   Oprah Winfrey Network:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Oprah%20Winfrey%20Network%202.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Oprah%20Winfrey%20Network%202.png
     sort_title: 06-Oprah Winfrey Network
     smart_filter:
       sort_by: title.asc
@@ -935,7 +935,7 @@ collections:
       validate: false
       
   Oxygen:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Oxygen.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Oxygen.png
     sort_title: 06-Oxygen
     smart_filter:
       sort_by: title.asc
@@ -945,7 +945,7 @@ collections:
       validate: false
         
   Paramount+:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Paramount.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Paramount.png
     sort_title: 06-Paramount+
     smart_filter:
       sort_by: title.asc
@@ -957,7 +957,7 @@ collections:
       validate: false
         
   PBS:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/PBS.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/PBS.png
     sort_title: 06-PBS
     smart_filter:
       sort_by: title.asc
@@ -969,7 +969,7 @@ collections:
       validate: false
         
   Peacock:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Peacock.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Peacock.png
     sort_title: 06-Peacock
     smart_filter:
       sort_by: title.asc
@@ -978,7 +978,7 @@ collections:
       validate: false
       
   Pop:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/POP.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/POP.png
     sort_title: 06-Pop
     smart_filter:
       sort_by: title.asc
@@ -987,7 +987,7 @@ collections:
       validate: false
       
   Quest:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Quest.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Quest.png
     sort_title: 06-Quest
     smart_filter:
       sort_by: title.asc
@@ -996,7 +996,7 @@ collections:
       validate: false
       
   Quibi:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Quibi.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Quibi.png
     sort_title: 06-Quibi
     smart_filter:
       sort_by: title.asc
@@ -1006,7 +1006,7 @@ collections:
       validate: false
       
   RAI:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Rai.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Rai.png
     sort_title: 06-RAI
     smart_filter:
       sort_by: title.asc
@@ -1023,7 +1023,7 @@ collections:
       validate: false
       
   Roku Channel:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Roku.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Roku.png
     sort_title: 06-Roku Channel
     smart_filter:
       sort_by: title.asc
@@ -1032,7 +1032,7 @@ collections:
       validate: false
       
   RTÉ:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/RTE.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/RTE.png
     sort_title: 06-RTE
     smart_filter:
       sort_by: title.asc
@@ -1047,7 +1047,7 @@ collections:
       validate: false
       
   RTL:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/RTL.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/RTL.png
     sort_title: 06-RTL
     smart_filter:
       sort_by: title.asc
@@ -1065,7 +1065,7 @@ collections:
       validate: false
       
   Seven Network:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Seven%20Network.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Seven%20Network.png
     sort_title: 06-Seven Network
     smart_filter:
       sort_by: title.asc
@@ -1081,7 +1081,7 @@ collections:
       validate: false
       
   Science Channel:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Science%20Channel.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Science%20Channel.png
     sort_title: 06-Science Channel
     smart_filter:
       sort_by: title.asc
@@ -1093,7 +1093,7 @@ collections:
       validate: false
       
   Showcase:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Showcase.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Showcase.png
     sort_title: 06-Showcase
     smart_filter:
       sort_by: title.asc
@@ -1102,7 +1102,7 @@ collections:
       validate: false
       
   Showtime:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Showtime.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Showtime.png
     sort_title: 06-Showtime
     smart_filter:
       sort_by: title.asc
@@ -1112,7 +1112,7 @@ collections:
       validate: false
       
   Shudder:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Shudder.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Shudder.png
     sort_title: 06-Shudder
     smart_filter:
       sort_by: title.asc
@@ -1121,7 +1121,7 @@ collections:
       validate: false
       
   Sky:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Sky.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Sky.png
     sort_title: 06-Sky
     smart_filter:
       sort_by: title.asc
@@ -1150,7 +1150,7 @@ collections:
       validate: false
       
   Sky Arts:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Sky%20Arts.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Sky%20Arts.png
     sort_title: 06-Sky Arts
     smart_filter:
       sort_by: title.asc
@@ -1160,7 +1160,7 @@ collections:
       validate: false
       
   Sky Atlantic:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Sky%20Atlantic.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Sky%20Atlantic.png
     sort_title: 06-Sky Atlantic
     smart_filter:
       sort_by: title.asc
@@ -1172,7 +1172,7 @@ collections:
       validate: false
       
   Sky One:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Sky%20One.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Sky%20One.png
     sort_title: 06-Sky One
     smart_filter:
       sort_by: title.asc
@@ -1186,7 +1186,7 @@ collections:
       validate: false
       
   Smithsonian:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Smithsonian%20Channel.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Smithsonian%20Channel.png
     sort_title: 06-Smithsonian
     smart_filter:
       sort_by: title.asc
@@ -1198,7 +1198,7 @@ collections:
       validate: false
         
   Spike:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Spike.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Spike.png
     sort_title: 06-Spike
     smart_filter:
       sort_by: title.asc
@@ -1208,7 +1208,7 @@ collections:
       validate: false
       
   Stan:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Stan.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Stan.png
     sort_title: 06-Stan
     smart_filter:
       sort_by: title.asc
@@ -1218,7 +1218,7 @@ collections:
       validate: false
       
   Starz:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Starz.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Starz.png
     sort_title: 06-Starz
     smart_filter:
       sort_by: title.asc
@@ -1228,7 +1228,7 @@ collections:
       validate: false
         
   Sundance TV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/SundanceTV.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/SundanceTV.png
     sort_title: 06-Sundance TV
     smart_filter:
       sort_by: title.asc
@@ -1237,7 +1237,7 @@ collections:
       validate: false
         
   SyFy:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/SYFY.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/SYFY.png
     sort_title: 06-SyFy
     smart_filter:
       sort_by: title.asc
@@ -1247,7 +1247,7 @@ collections:
       validate: false
         
   TBS:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TBS.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/TBS.png
     sort_title: 06-TBS
     smart_filter:
       sort_by: title.asc
@@ -1260,7 +1260,7 @@ collections:
       validate: false
         
   Telemundo:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Telemundo.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Telemundo.png
     sort_title: 06-Telemundo
     smart_filter:
       sort_by: title.asc
@@ -1270,7 +1270,7 @@ collections:
       validate: false
       
   The CW:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/The%20CW.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/The%20CW.png
     sort_title: 06-The CW
     smart_filter:
       sort_by: title.asc
@@ -1279,7 +1279,7 @@ collections:
       validate: false
       
   The WB:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/WB.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/WB.png
     sort_title: 06-The WB
     smart_filter:
       sort_by: title.asc
@@ -1288,7 +1288,7 @@ collections:
       validate: false
         
   TLC:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TLC.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/TLC.png
     sort_title: 06-TLC
     smart_filter:
       sort_by: title.asc
@@ -1300,7 +1300,7 @@ collections:
       validate: false
         
   TNT:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TNT.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/TNT.png
     sort_title: 06-TNT
     smart_filter:
       sort_by: title.asc
@@ -1314,7 +1314,7 @@ collections:
       validate: false
         
   Travel Channel:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Travel%20Channel.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Travel%20Channel.png
     sort_title: 06-Travel Channel
     smart_filter:
       sort_by: title.asc
@@ -1326,7 +1326,7 @@ collections:
       validate: false
         
   truTV:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/truTV.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/truTV.png
     sort_title: 06-truTV
     smart_filter:
       sort_by: title.asc
@@ -1335,7 +1335,7 @@ collections:
       validate: false
       
   TV Land:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TV%20Land.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/TV%20Land.png
     sort_title: 06-TV Land
     smart_filter:
       sort_by: title.asc
@@ -1344,7 +1344,7 @@ collections:
       validate: false
       
   TVNZ:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/TVNZ.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/TVNZ.png
     sort_title: 06-TVNZ
     smart_filter:
       sort_by: title.asc
@@ -1357,7 +1357,7 @@ collections:
       validate: false
       
   UPN:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/UPN%202.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/UPN%202.png
     sort_title: 06-UPN
     smart_filter:
       sort_by: title.asc
@@ -1366,7 +1366,7 @@ collections:
       validate: false
       
   USA:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/USA.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/USA.png
     sort_title: 06-USA
     smart_filter:
       sort_by: title.asc
@@ -1379,7 +1379,7 @@ collections:
       validate: false
         
   VH1:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/VH1.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/VH1.png
     sort_title: 06-VH1
     smart_filter:
       sort_by: title.asc
@@ -1391,7 +1391,7 @@ collections:
       validate: false
       
   Viaplay:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Viaplay.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Viaplay.png
     sort_title: 06-VH1
     smart_filter:
       sort_by: title.asc
@@ -1401,7 +1401,7 @@ collections:
       validate: false
       
   Vice:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Vice.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Vice.png
     sort_title: 06-Vice
     smart_filter:
       sort_by: title.asc
@@ -1421,7 +1421,7 @@ collections:
       validate: false
       
   WE tv:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/WE%20tv.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/WE%20tv.png
     sort_title: 06-WE tv
     smart_filter:
       sort_by: title.asc
@@ -1430,7 +1430,7 @@ collections:
       validate: false
       
   WWE:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/WWE.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/WWE.png
     sort_title: 06-WWE
     smart_filter:
       sort_by: title.asc
@@ -1443,7 +1443,7 @@ collections:
       validate: false
       
   YouTube:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Networks/Black/Youtube.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Networks/Black/Youtube.png
     sort_title: 06-Youtube
     smart_filter:
       sort_by: title.asc

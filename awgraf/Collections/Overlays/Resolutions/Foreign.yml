@@ -20,7 +20,7 @@ overlays:
       horizontal_align: center
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/Solid/4K-UHD.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Resolutions/Solid/4K-UHD.png
 
   4K-HDR:
     plex_search:
@@ -39,4 +39,4 @@ overlays:
       horizontal_align: center
       vertical_offset: 0
       vertical_align: top
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/Solid/4K-HDR.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Resolutions/Solid/4K-HDR.png

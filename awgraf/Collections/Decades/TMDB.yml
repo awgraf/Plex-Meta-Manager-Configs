@@ -5,7 +5,7 @@
 
 collections:
   1930's:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1930.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Decades/1930.png
     sort_title: 04-1930
     collection_order: custom
     sync_mode: sync
@@ -16,7 +16,7 @@ collections:
       limit: 100
       
   1940's:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1940.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Decades/1940.png
     sort_title: 04-1940
     collection_order: custom
     sync_mode: sync
@@ -27,7 +27,7 @@ collections:
       limit: 100
       
   1950's:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1950.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Decades/1950.png
     sort_title: 04-1950
     collection_order: custom
     sync_mode: sync
@@ -38,7 +38,7 @@ collections:
       limit: 100
       
   1960's:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1960.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Decades/1960.png
     sort_title: 04-1960
     collection_order: custom
     sync_mode: sync
@@ -49,7 +49,7 @@ collections:
       limit: 100
       
   1970's:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1970.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Decades/1970.png
     sort_title: 04-1970
     collection_order: custom
     sync_mode: sync
@@ -60,7 +60,7 @@ collections:
       limit: 100
       
   1980's:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1980.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Decades/1980.png
     sort_title: 04-1980
     collection_order: custom
     sync_mode: sync
@@ -71,7 +71,7 @@ collections:
       limit: 100
       
   1990's:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/1990.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Decades/1990.png
     sort_title: 04-1990
     collection_order: custom
     sync_mode: sync
@@ -82,7 +82,7 @@ collections:
       limit: 100
       
   2000's:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/2000.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Decades/2000.png
     sort_title: 04-2000
     collection_order: custom
     sync_mode: sync
@@ -93,7 +93,7 @@ collections:
       limit: 100
       
   2010's:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/2010.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Decades/2010.png
     sort_title: 04-2010
     collection_order: custom
     sync_mode: sync
@@ -104,7 +104,7 @@ collections:
       limit: 100
       
   2020's:
-    url_poster: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Posters/Decades/2020.png
+    url_poster: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Posters/Decades/2020.png
     sort_title: 04-2020
     collection_order: custom
     sync_mode: sync

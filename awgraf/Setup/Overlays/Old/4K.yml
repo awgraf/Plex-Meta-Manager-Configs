@@ -10,7 +10,7 @@ collections:
         hdr: false
     item_overlay: 
       name: 4K-UHD
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/Solid/4K-UHD-Solid.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Resolutions/Solid/4K-UHD-Solid.png
     build_collection: false
     revert_overlay: true  
   
@@ -21,6 +21,6 @@ collections:
         hdr: true
     item_overlay:
       name: 4K-HDR
-      url: https://raw.githubusercontent.com/zluckytraveler/Plex-Meta-Manager-Configs/master/zluckytraveler/Overlays/Resolutions/Solid/4K-HDR-Solid.png
+      url: https://raw.githubusercontent.com/awgraf/Plex-Meta-Manager-Configs/master/awgraf/Overlays/Resolutions/Solid/4K-HDR-Solid.png
     build_collection: false
     revert_overlay: true
