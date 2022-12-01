@@ -54,7 +54,7 @@ collections:
     template:
       - name: shared
       - name: multi-franchise
-        image: DC Universe
+    url_poster: https://theposterdb.com/api/assets/48242
     trakt_list: https://trakt.tv/users/donxy/lists/dc-extended-universe
     summary: The DC Extended Universe (DECU) is the fictional shared universe where most stories in American comic book titles published by DC Comics take place. DC superheroes such as Superman, Batman, Wonder Woman, Martian Manhunter, The Flash, Green Lantern and Aquaman are from this universe, as well as teams such as the Justice League and the Teen Titans.
   Marvel Cinematic Universe:
@@ -68,21 +68,21 @@ collections:
     template:
       - name: shared
       - name: multi-franchise
-        image: Wizarding World
+    url_poster: https://theposterdb.com/api/assets/20343
     trakt_list: https://trakt.tv/users/strangerer/lists/harry-potter
   "Alien / Predator":
     template:
       - name: shared
       - name: multi-franchise
-        image: Alien Predator
+    url_poster: https://theposterdb.com/api/assets/1213
     trakt_list: https://trakt.tv/users/donxy/lists/alien-predator-timeline
     name_mapping: Alien Predator
   X-Men Universe:
     template:
       - name: shared
       - name: multi-franchise
-        image: X-Men
-    trakt_list: https://trakt.tv/users/donxy/lists/x-men-universe
+    url_poster: https://theposterdb.com/api/assets/214
+    trakt_list: https://trakt.tv/users/marinemonk/lists/x-men-collection
   Middle Earth:
     template:
       - name: shared
