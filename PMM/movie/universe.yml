@@ -70,7 +70,7 @@ collections:
       - name: multi-franchise
     url_poster: https://theposterdb.com/api/assets/20343
     trakt_list: https://trakt.tv/users/strangerer/lists/harry-potter
-  "Alien / Predator":
+  Alien:
     template:
       - name: shared
       - name: multi-franchise
@@ -94,7 +94,7 @@ collections:
     template:
       - name: shared
       - name: multi-franchise
-        image: Fast & Furious
+    url_poster: https://theposterdb.com/api/assets/1070
     trakt_list: https://trakt.tv/users/vargajoe/lists/fast-and-furious-chronology
   Star Trek:
     template:
