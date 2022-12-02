@@ -122,3 +122,9 @@ collections:
         image: Studio Ghibli
     url_poster: https://theposterdb.com/api/assets/100966
     trakt_list: https://trakt.tv/users/marinemonk/lists/studio-ghibli
+  Kingsman:
+    template:
+      - name: shared
+      - name: multi-franchise
+    url_poster: https://theposterdb.com/api/assets/234953
+    trakt_list: https://trakt.tv/lists/official/kingsman-collection
